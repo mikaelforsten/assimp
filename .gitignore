@@ -1,3 +1,6 @@
 /bin-int/
 **.vcxproj**
 /bin/
+
+# Makefile
+Makefile
